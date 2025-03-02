@@ -41,6 +41,7 @@ A real-time data pipeline capturing changes from PostgreSQL using Kafka and Debe
 - **LinkedIn:** [Erhan Ustun](https://www.linkedin.com/in/erhanustun)
 - **Email:** erhann.ustun93@gmail.com
 - **GitHub:** [github.com/erhanustun](https://github.com/erhanustun)
+- **Medium:** [medium.com/@erhanstn](https://medium.com/@erhanstn)
 
 ---
 
