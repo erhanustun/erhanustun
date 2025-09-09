@@ -24,6 +24,11 @@ A real-time data pipeline capturing changes from PostgreSQL using Kafka and Debe
 - **Technologies:** Kafka, Debezium, PySpark, Docker, PostgreSQL, MinIO
 - **Highlights:** Implemented end-to-end CDC pipeline with schema evolution and data transformations.
 
+### 🗄️ [MSSQL → PostgreSQL Data Pipeline](https://github.com/erhanustun/ETL-mssql-to-postgres-dailySync)
+A batch data pipeline that synchronizes daily incremental data from MSSQL to PostgreSQL, orchestrated with Apache Airflow and running in a Dockerized environment.
+
+- **Technologies:** Airflow, Docker, MSSQL, PostgreSQL, Pandas, Psycopg2
+- **Highlights:** Built end-to-end ETL pipeline with daily incremental sync, UPSERT handling, and data validation between source and target.
 ---
 
 ## 📘 Education
